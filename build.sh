@@ -3,7 +3,6 @@
 set -ex
 
 SIDE_MODULE_FLAG=""
-# check --enable-side-module CLI flag ans update the env
 
 for arg in "$@"; do
     case $arg in
