@@ -4,3 +4,4 @@
 *.so
 *.wasm
 *.data
+main
