@@ -1,0 +1,6 @@
+*.html
+*.js
+*.o
+*.so
+*.wasm
+*.data
